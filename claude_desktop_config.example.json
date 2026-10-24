@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "assistant-tools": {
+      "command": "python",
+      "args": ["/ABSOLUTE/PATH/TO/mcp-ai-assistant/server/mcp_server.py"]
+    }
+  }
+}
